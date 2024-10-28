@@ -42,6 +42,66 @@
         "imageUrl": "path/to/image4.jpg",
         "stock": 8
       },
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 5,
+        "name": "Leather Sofa",
+        "price": 899.99,
+        "description": "A high-quality leather sofa that combines style and durability.",
+        "imageUrl": "path/to/image5.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 6,
+        "name": "Vintage Sofa",
+        "price": 650.00,
+        "description": "A vintage-style sofa to add character to any room.",
+        "imageUrl": "path/to/image6.jpg",
+        "stock": 9
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 7,
+        "name": "Minimalist Sofa",
+        "price": 450.00,
+        "description": "A minimalist sofa with clean lines and a modern look.",
+        "imageUrl": "path/to/image7.jpg",
+        "stock": 11
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 8,
+        "name": "Luxury Sofa",
+        "price": 1200.00,
+        "description": "An upscale sofa with premium materials and finish.",
+        "imageUrl": "path/to/image8.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 9,
+        "name": "Convertible Sofa Bed",
+        "price": 499.99,
+        "description": "A convertible sofa bed, perfect for small spaces.",
+        "imageUrl": "path/to/image9.jpg",
+        "stock": 14
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 10,
+        "name": "Chesterfield Sofa",
+        "price": 850.00,
+        "description": "A timeless Chesterfield sofa with tufted upholstery.",
+        "imageUrl": "path/to/image10.jpg",
+        "stock": 7
+      },
      
       {
         "category": "Furniture",
@@ -63,6 +123,87 @@
         "imageUrl": "path/to/image6.jpg",
         "stock": 5
       },
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 13,
+        "name": "Extendable Dining Table",
+        "price": 899.99,
+        "description": "A versatile extendable dining table, ideal for hosting guests.",
+        "imageUrl": "path/to/image13.jpg",
+        "stock": 6
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 14,
+        "name": "Round Marble Dining Table",
+        "price": 1299.99,
+        "description": "An elegant round marble dining table with a modern look.",
+        "imageUrl": "path/to/image14.jpg",
+        "stock": 4
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 15,
+        "name": "Farmhouse Dining Table",
+        "price": 649.99,
+        "description": "A rustic farmhouse-style dining table for a cozy atmosphere.",
+        "imageUrl": "path/to/image15.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 16,
+        "name": "Vintage Rectangular Table",
+        "price": 750.00,
+        "description": "A vintage rectangular table with sturdy wood construction.",
+        "imageUrl": "path/to/image16.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 17,
+        "name": "Compact Square Dining Table",
+        "price": 299.99,
+        "description": "A compact dining table perfect for small spaces.",
+        "imageUrl": "path/to/image17.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 18,
+        "name": "Wood and Metal Dining Table",
+        "price": 549.99,
+        "description": "A wood and metal dining table for an industrial look.",
+        "imageUrl": "path/to/image18.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 19,
+        "name": "Outdoor Dining Table",
+        "price": 479.99,
+        "description": "A weather-resistant dining table for outdoor dining.",
+        "imageUrl": "path/to/image19.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 20,
+        "name": "Glass and Chrome Dining Table",
+        "price": 899.99,
+        "description": "A chic glass and chrome dining table for a modern home.",
+        "imageUrl": "path/to/image20.jpg",
+        "stock": 7
+      },
+  
       
       {
         "category": "Decor",
@@ -84,6 +225,87 @@
         "imageUrl": "path/to/image8.jpg",
         "stock": 14
       },
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 23,
+        "name": "Antique Wall Mirror",
+        "price": 149.99,
+        "description": "An antique wall mirror with intricate detailing, perfect for vintage decor.",
+        "imageUrl": "path/to/image23.jpg",
+        "stock": 6
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 24,
+        "name": "Full-Length Mirror",
+        "price": 199.99,
+        "description": "A full-length mirror ideal for bedrooms and dressing areas.",
+        "imageUrl": "path/to/image24.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 25,
+        "name": "Hexagonal Mirror Set",
+        "price": 89.99,
+        "description": "A set of hexagonal mirrors for a unique wall display.",
+        "imageUrl": "path/to/image25.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 26,
+        "name": "Sunburst Decorative Mirror",
+        "price": 129.99,
+        "description": "A sunburst mirror with a radiant frame design for accent decor.",
+        "imageUrl": "path/to/image26.jpg",
+        "stock": 7
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 27,
+        "name": "Industrial Round Mirror",
+        "price": 99.99,
+        "description": "A round mirror with a metal frame for an industrial look.",
+        "imageUrl": "path/to/image27.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 28,
+        "name": "Bathroom Vanity Mirror",
+        "price": 74.99,
+        "description": "A sleek mirror designed for bathroom vanities.",
+        "imageUrl": "path/to/image28.jpg",
+        "stock": 20
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 29,
+        "name": "Modern Frameless Mirror",
+        "price": 109.99,
+        "description": "A frameless mirror with a clean, modern aesthetic.",
+        "imageUrl": "path/to/image29.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 30,
+        "name": "Geometric Pattern Mirror",
+        "price": 139.99,
+        "description": "A mirror with a unique geometric pattern frame for contemporary decor.",
+        "imageUrl": "path/to/image30.jpg",
+        "stock": 8
+      },
+  
       
       {
         "category": "Decor",
@@ -105,6 +327,87 @@
         "imageUrl": "path/to/image10.jpg",
         "stock": 8
       },
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 33,
+        "name": "Abstract Metal Sculpture",
+        "price": 79.99,
+        "description": "A modern abstract metal sculpture, perfect for contemporary decor.",
+        "imageUrl": "path/to/image33.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 34,
+        "name": "Marble Bust",
+        "price": 149.99,
+        "description": "An elegant marble bust for a touch of classical style.",
+        "imageUrl": "path/to/image34.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 35,
+        "name": "Wooden Animal Figurine",
+        "price": 29.99,
+        "description": "Hand-carved wooden animal figurine for rustic charm.",
+        "imageUrl": "path/to/image35.jpg",
+        "stock": 20
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 36,
+        "name": "Crystal Geode Sculpture",
+        "price": 99.99,
+        "description": "A stunning crystal geode sculpture for a natural look.",
+        "imageUrl": "path/to/image36.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 37,
+        "name": "Bronze Dancer Statue",
+        "price": 129.99,
+        "description": "A beautifully crafted bronze dancer statue with graceful lines.",
+        "imageUrl": "path/to/image37.jpg",
+        "stock": 6
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 38,
+        "name": "Abstract Glass Sculpture",
+        "price": 89.99,
+        "description": "A colorful glass sculpture that adds a touch of abstract art.",
+        "imageUrl": "path/to/image38.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 39,
+        "name": "Minimalist Stone Sculpture",
+        "price": 59.99,
+        "description": "A minimalist stone sculpture for a calm and neutral decor.",
+        "imageUrl": "path/to/image39.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 40,
+        "name": "Ceramic Face Sculpture",
+        "price": 109.99,
+        "description": "A unique ceramic sculpture with a contemporary face design.",
+        "imageUrl": "path/to/image40.jpg",
+        "stock": 7
+      },
+  
      
       {
         "category": "Kitchenware",
@@ -126,6 +429,87 @@
         "imageUrl": "path/to/image12.jpg",
         "stock": 25
       },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 43,
+        "name": "Stainless Steel Saucepan",
+        "price": 49.99,
+        "description": "A durable stainless steel saucepan for everyday cooking.",
+        "imageUrl": "path/to/image43.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 44,
+        "name": "Nonstick Frying Pan",
+        "price": 39.99,
+        "description": "A high-quality nonstick frying pan for easy cooking and cleaning.",
+        "imageUrl": "path/to/image44.jpg",
+        "stock": 25
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 45,
+        "name": "Cast Iron Skillet",
+        "price": 59.99,
+        "description": "A pre-seasoned cast iron skillet for versatile cooking.",
+        "imageUrl": "path/to/image45.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 46,
+        "name": "Dutch Oven",
+        "price": 99.99,
+        "description": "A large cast iron Dutch oven for slow-cooked dishes.",
+        "imageUrl": "path/to/image46.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 47,
+        "name": "Copper Saucepan",
+        "price": 89.99,
+        "description": "A copper saucepan for professional-grade cooking.",
+        "imageUrl": "path/to/image47.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 48,
+        "name": "Stainless Steel Stock Pot",
+        "price": 69.99,
+        "description": "A large stock pot perfect for soups and stews.",
+        "imageUrl": "path/to/image48.jpg",
+        "stock": 9
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 49,
+        "name": "Enamel Cast Iron Braiser",
+        "price": 89.99,
+        "description": "An enamel-coated braiser ideal for stovetop and oven cooking.",
+        "imageUrl": "path/to/image49.jpg",
+        "stock": 7
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 50,
+        "name": "Stainless Steel Roasting Pan",
+        "price": 74.99,
+        "description": "A stainless steel roasting pan with a rack for even roasting.",
+        "imageUrl": "path/to/image50.jpg",
+        "stock": 11
+      },
+  
      
       {
         "category": "Kitchenware",
@@ -147,6 +531,87 @@
         "imageUrl": "path/to/image14.jpg",
         "stock": 30
       },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 53,
+        "name": "Ceramic Serving Platter",
+        "price": 24.99,
+        "description": "A large ceramic platter perfect for serving main dishes.",
+        "imageUrl": "path/to/image53.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 54,
+        "name": "Bamboo Cheese Board",
+        "price": 34.99,
+        "description": "A bamboo board for serving cheese, meats, and appetizers.",
+        "imageUrl": "path/to/image54.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 55,
+        "name": "Stainless Steel Serving Bowl",
+        "price": 19.99,
+        "description": "A durable stainless steel bowl for serving salads and sides.",
+        "imageUrl": "path/to/image55.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 56,
+        "name": "Glass Pitcher",
+        "price": 29.99,
+        "description": "A clear glass pitcher perfect for serving beverages.",
+        "imageUrl": "path/to/image56.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 57,
+        "name": "Porcelain Soup Tureen",
+        "price": 49.99,
+        "description": "A porcelain tureen with a lid, ideal for serving soups and stews.",
+        "imageUrl": "path/to/image57.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 58,
+        "name": "Wooden Salad Bowl Set",
+        "price": 39.99,
+        "description": "A set of wooden bowls for serving salads.",
+        "imageUrl": "path/to/image58.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 59,
+        "name": "Silver Serving Tray",
+        "price": 44.99,
+        "description": "An elegant silver tray perfect for formal gatherings.",
+        "imageUrl": "path/to/image59.jpg",
+        "stock": 6
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 60,
+        "name": "Ceramic Dip Bowl Set",
+        "price": 14.99,
+        "description": "A set of ceramic dip bowls for serving sauces and dips.",
+        "imageUrl": "path/to/image60.jpg",
+        "stock": 18
+      },
+  
      
       {
         "category": "Lighting",
@@ -168,6 +633,87 @@
         "imageUrl": "path/to/image16.jpg",
         "stock": 7
       },
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 63,
+        "name": "Modern Crystal Chandelier",
+        "price": 199.99,
+        "description": "A stunning modern crystal chandelier that adds elegance to any room.",
+        "imageUrl": "path/to/image63.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 64,
+        "name": "Industrial Cage Chandelier",
+        "price": 129.99,
+        "description": "A rustic industrial-style chandelier with a cage design.",
+        "imageUrl": "path/to/image64.jpg",
+        "stock": 7
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 65,
+        "name": "Vintage Brass Chandelier",
+        "price": 159.99,
+        "description": "A vintage chandelier with a brass finish for a classic look.",
+        "imageUrl": "path/to/image65.jpg",
+        "stock": 4
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 66,
+        "name": "Geometric LED Chandelier",
+        "price": 249.99,
+        "description": "A contemporary chandelier with geometric LED design.",
+        "imageUrl": "path/to/image66.jpg",
+        "stock": 6
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 67,
+        "name": "Rustic Wood Beam Chandelier",
+        "price": 189.99,
+        "description": "A rustic chandelier featuring wood beams and metal accents.",
+        "imageUrl": "path/to/image67.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 68,
+        "name": "Minimalist Ring Chandelier",
+        "price": 209.99,
+        "description": "A minimalist chandelier with a sleek ring design.",
+        "imageUrl": "path/to/image68.jpg",
+        "stock": 3
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 69,
+        "name": "Art Deco Crystal Chandelier",
+        "price": 179.99,
+        "description": "An Art Deco-style chandelier with crystal accents.",
+        "imageUrl": "path/to/image69.jpg",
+        "stock": 9
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 70,
+        "name": "Bohemian Beaded Chandelier",
+        "price": 139.99,
+        "description": "A Bohemian-style chandelier with wooden beads.",
+        "imageUrl": "path/to/image70.jpg",
+        "stock": 6
+      },
+  
       
       {
         "category": "Lighting",
@@ -188,6 +734,486 @@
         "description": "A classic floor lamp with a traditional design.",
         "imageUrl": "path/to/image18.jpg",
         "stock": 20
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 73,
+        "name": "Arc Floor Lamp",
+        "price": 89.99,
+        "description": "A stylish arc floor lamp with a contemporary design.",
+        "imageUrl": "path/to/image73.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 74,
+        "name": "Tripod Floor Lamp",
+        "price": 99.99,
+        "description": "A modern tripod floor lamp that adds elegance to any room.",
+        "imageUrl": "path/to/image74.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 75,
+        "name": "Industrial Floor Lamp",
+        "price": 74.99,
+        "description": "A rustic floor lamp with industrial-style design.",
+        "imageUrl": "path/to/image75.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 76,
+        "name": "Adjustable LED Floor Lamp",
+        "price": 69.99,
+        "description": "An adjustable LED floor lamp ideal for reading.",
+        "imageUrl": "path/to/image76.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 77,
+        "name": "Classic Brass Floor Lamp",
+        "price": 119.99,
+        "description": "A classic brass floor lamp with an elegant design.",
+        "imageUrl": "path/to/image77.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 78,
+        "name": "Bohemian Rattan Floor Lamp",
+        "price": 94.99,
+        "description": "A floor lamp with a unique Bohemian rattan design.",
+        "imageUrl": "path/to/image78.jpg",
+        "stock": 7
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 79,
+        "name": "Modern Glass Floor Lamp",
+        "price": 109.99,
+        "description": "A modern glass floor lamp that enhances room decor.",
+        "imageUrl": "path/to/image79.jpg",
+        "stock": 6
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 80,
+        "name": "Minimalist Floor Lamp",
+        "price": 79.99,
+        "description": "A minimalist floor lamp with a clean and simple design.",
+        "imageUrl": "path/to/image80.jpg",
+        "stock": 11
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 81,
+        "name": "Cotton Bed Sheet Set",
+        "price": 29.99,
+        "description": "Soft and breathable cotton sheets in various sizes.",
+        "imageUrl": "path/to/image81.jpg",
+        "stock": 20
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 82,
+        "name": "Silk Sheet Set",
+        "price": 89.99,
+        "description": "Luxurious silk sheets for a smooth sleeping experience.",
+        "imageUrl": "path/to/image82.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 83,
+        "name": "Flannel Sheet Set",
+        "price": 34.99,
+        "description": "Warm flannel sheets, ideal for winter.",
+        "imageUrl": "path/to/image83.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 84,
+        "name": "Microfiber Sheet Set",
+        "price": 19.99,
+        "description": "Affordable and wrinkle-resistant microfiber sheets.",
+        "imageUrl": "path/to/image84.jpg",
+        "stock": 25
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 85,
+        "name": "Bamboo Sheet Set",
+        "price": 39.99,
+        "description": "Eco-friendly bamboo sheets with a cooling effect.",
+        "imageUrl": "path/to/image85.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 86,
+        "name": "Egyptian Cotton Sheet Set",
+        "price": 59.99,
+        "description": "Premium Egyptian cotton sheets for ultimate comfort.",
+        "imageUrl": "path/to/image86.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 87,
+        "name": "Linen Sheet Set",
+        "price": 49.99,
+        "description": "Lightweight and breathable linen sheets.",
+        "imageUrl": "path/to/image87.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 88,
+        "name": "Tencel Sheet Set",
+        "price": 44.99,
+        "description": "Sustainable Tencel sheets with a soft texture.",
+        "imageUrl": "path/to/image88.jpg",
+        "stock": 18
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 89,
+        "name": "Polyester Sheet Set",
+        "price": 14.99,
+        "description": "Durable and easy-care polyester sheets.",
+        "imageUrl": "path/to/image89.jpg",
+        "stock": 22
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Sheets",
+        "id": 90,
+        "name": "Organic Cotton Sheet Set",
+        "price": 49.99,
+        "description": "Organic cotton sheets for an eco-friendly choice.",
+        "imageUrl": "path/to/image90.jpg",
+        "stock": 17
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 91,
+        "name": "Down Duvet",
+        "price": 99.99,
+        "description": "Warm and fluffy down duvet for extra comfort.",
+        "imageUrl": "path/to/image91.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 92,
+        "name": "Synthetic Duvet",
+        "price": 69.99,
+        "description": "Hypoallergenic synthetic duvet for sensitive skin.",
+        "imageUrl": "path/to/image92.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 93,
+        "name": "Feather Duvet",
+        "price": 79.99,
+        "description": "Light and cozy feather duvet for all seasons.",
+        "imageUrl": "path/to/image93.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 94,
+        "name": "Wool Duvet",
+        "price": 109.99,
+        "description": "Warm wool duvet, perfect for colder months.",
+        "imageUrl": "path/to/image94.jpg",
+        "stock": 6
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 95,
+        "name": "Cooling Duvet",
+        "price": 89.99,
+        "description": "Duvet with cooling technology for hot sleepers.",
+        "imageUrl": "path/to/image95.jpg",
+        "stock": 11
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 96,
+        "name": "Organic Cotton Duvet",
+        "price": 119.99,
+        "description": "Organic cotton duvet for a sustainable choice.",
+        "imageUrl": "path/to/image96.jpg",
+        "stock": 9
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 97,
+        "name": "Silk Duvet",
+        "price": 139.99,
+        "description": "Luxurious silk duvet for an elegant touch.",
+        "imageUrl": "path/to/image97.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 98,
+        "name": "Bamboo Duvet",
+        "price": 94.99,
+        "description": "Breathable bamboo duvet for year-round comfort.",
+        "imageUrl": "path/to/image98.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 99,
+        "name": "Weighted Duvet",
+        "price": 129.99,
+        "description": "Weighted duvet for a comforting sleep experience.",
+        "imageUrl": "path/to/image99.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Bedding",
+        "subcategory": "Duvets",
+        "id": 100,
+        "name": "All-Season Duvet",
+        "price": 74.99,
+        "description": "Versatile duvet suitable for all seasons.",
+        "imageUrl": "path/to/image100.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 101,
+        "name": "Wicker Patio Set",
+        "price": 299.99,
+        "description": "Durable wicker patio set for outdoor lounging.",
+        "imageUrl": "path/to/image101.jpg",
+        "stock": 4
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 102,
+        "name": "Folding Patio Chairs",
+        "price": 59.99,
+        "description": "Set of 2 folding chairs, perfect for small spaces.",
+        "imageUrl": "path/to/image102.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 103,
+        "name": "Outdoor Sectional Sofa",
+        "price": 499.99,
+        "description": "Spacious outdoor sectional sofa for family gatherings.",
+        "imageUrl": "path/to/image103.jpg",
+        "stock": 3
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 104,
+        "name": "Patio Dining Set",
+        "price": 399.99,
+        "description": "Outdoor dining set with table and 4 chairs.",
+        "imageUrl": "path/to/image104.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 105,
+        "name": "Adirondack Chair",
+        "price": 79.99,
+        "description": "Classic Adirondack chair for backyard relaxation.",
+        "imageUrl": "path/to/image105.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 106,
+        "name": "Chaise Lounge",
+        "price": 129.99,
+        "description": "Comfortable chaise lounge with adjustable recline.",
+        "imageUrl": "path/to/image106.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 107,
+        "name": "Outdoor Bench",
+        "price": 99.99,
+        "description": "Wooden outdoor bench for garden seating.",
+        "imageUrl": "path/to/image107.jpg",
+        "stock": 7
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 108,
+        "name": "Fire Pit Table",
+        "price": 199.99,
+        "description": "Patio table with built-in fire pit for ambiance.",
+        "imageUrl": "path/to/image108.jpg",
+        "stock": 6
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 109,
+        "name": "Hammock Chair",
+        "price": 49.99,
+        "description": "Cozy hammock chair for relaxing outdoors.",
+        "imageUrl": "path/to/image109.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Patio Furniture",
+        "id": 110,
+        "name": "Patio Umbrella",
+        "price": 89.99,
+        "description": "Large umbrella for shaded outdoor enjoyment.",
+        "imageUrl": "path/to/image110.jpg",
+        "stock": 14
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 111,
+        "name": "Charcoal Grill",
+        "price": 129.99,
+        "description": "Classic charcoal grill for authentic BBQ flavor.",
+        "imageUrl": "path/to/image111.jpg",
+        "stock": 6
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 112,
+        "name": "Gas Grill",
+        "price": 249.99,
+        "description": "Convenient gas grill with adjustable burners.",
+        "imageUrl": "path/to/image112.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 113,
+        "name": "Electric Grill",
+        "price": 99.99,
+        "description": "Electric grill for a smoke-free cooking experience.",
+        "imageUrl": "path/to/image113.jpg",
+        "stock": 8
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 114,
+        "name": "Portable Grill",
+        "price": 59.99,
+        "description": "Compact portable grill for outdoor adventures.",
+        "imageUrl": "path/to/image114.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 115,
+        "name": "Smoker Grill",
+        "price": 179.99,
+        "description": "Smoker grill for slow-cooked BBQ flavor.",
+        "imageUrl": "path/to/image115.jpg",
+        "stock": 7
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 116,
+        "name": "Ceramic Grill",
+        "price": 299.99,
+        "description": "High-end ceramic grill for versatile cooking.",
+        "imageUrl": "path/to/image116.jpg",
+        "stock": 3
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 117,
+        "name": "Pellet Grill",
+        "price": 219.99,
+        "description": "Pellet grill for controlled heat and smoke.",
+        "imageUrl": "path/to/image117.jpg",
+        "stock": 4
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 118,
+        "name": "Built-in Grill",
+        "price": 599.99,
+        "description": "Built-in grill for customized outdoor kitchens.",
+        "imageUrl": "path/to/image118.jpg",
+        "stock": 2
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 119,
+        "name": "Kettle Grill",
+        "price": 74.99,
+        "description": "Round kettle grill with easy cleanup.",
+        "imageUrl": "path/to/image119.jpg",
+        "stock": 10
+      },
+      {
+        "category": "Outdoor Living",
+        "subcategory": "Grills",
+        "id": 120,
+        "name": "Infrared Grill",
+        "price": 259.99,
+        "description": "Infrared grill for even cooking and searing.",
+        "imageUrl": "path/to/image120.jpg",
+        "stock": 5
       }
       
     ]
