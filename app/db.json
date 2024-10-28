@@ -1,0 +1,196 @@
+{
+    "products": [
+      
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 1,
+        "name": "Classic Sofa",
+        "price": 499.99,
+        "description": "A comfortable classic sofa perfect for any living room.",
+        "imageUrl": "path/to/image1.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 2,
+        "name": "Modern Sectional Sofa",
+        "price": 799.99,
+        "description": "A modern sectional sofa with luxurious upholstery.",
+        "imageUrl": "path/to/image2.jpg",
+        "stock": 10
+      },
+      
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 3,
+        "name": "Compact Loveseat",
+        "price": 299.99,
+        "description": "A compact loveseat ideal for smaller spaces.",
+        "imageUrl": "path/to/image3.jpg",
+        "stock": 20
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Sofas",
+        "id": 4,
+        "name": "Reclining Sofa",
+        "price": 599.99,
+        "description": "A reclining sofa with plush cushions for maximum comfort.",
+        "imageUrl": "path/to/image4.jpg",
+        "stock": 8
+      },
+     
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 11,
+        "name": "Wooden Dining Table",
+        "price": 699.99,
+        "description": "A solid wood dining table for family dinners.",
+        "imageUrl": "path/to/image5.jpg",
+        "stock": 18
+      },
+      {
+        "category": "Furniture",
+        "subcategory": "Dining Tables",
+        "id": 12,
+        "name": "Glass Top Dining Table",
+        "price": 899.99,
+        "description": "An elegant glass top dining table with metal frame.",
+        "imageUrl": "path/to/image6.jpg",
+        "stock": 5
+      },
+      
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 21,
+        "name": "Framed Mirror",
+        "price": 129.99,
+        "description": "A beautifully framed wall mirror.",
+        "imageUrl": "path/to/image7.jpg",
+        "stock": 20
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Mirrors",
+        "id": 22,
+        "name": "Round Mirror",
+        "price": 99.99,
+        "description": "A stylish round mirror for any room.",
+        "imageUrl": "path/to/image8.jpg",
+        "stock": 14
+      },
+      
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 31,
+        "name": "Abstract Sculpture",
+        "price": 59.99,
+        "description": "A unique abstract sculpture to decorate your home.",
+        "imageUrl": "path/to/image9.jpg",
+        "stock": 12
+      },
+      {
+        "category": "Decor",
+        "subcategory": "Sculptures",
+        "id": 32,
+        "name": "Modern Statue",
+        "price": 75.99,
+        "description": "An elegant modern statue made of high-quality materials.",
+        "imageUrl": "path/to/image10.jpg",
+        "stock": 8
+      },
+     
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 41,
+        "name": "Non-Stick Pan",
+        "price": 29.99,
+        "description": "A high-quality non-stick pan for easy cooking.",
+        "imageUrl": "path/to/image11.jpg",
+        "stock": 30
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Cookware",
+        "id": 42,
+        "name": "Cast Iron Skillet",
+        "price": 39.99,
+        "description": "A durable cast iron skillet for versatile cooking.",
+        "imageUrl": "path/to/image12.jpg",
+        "stock": 25
+      },
+     
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 51,
+        "name": "Serving Platter",
+        "price": 24.99,
+        "description": "A stylish platter for serving meals.",
+        "imageUrl": "path/to/image13.jpg",
+        "stock": 18
+      },
+      {
+        "category": "Kitchenware",
+        "subcategory": "Serveware",
+        "id": 52,
+        "name": "Salad Bowl",
+        "price": 19.99,
+        "description": "A large bowl perfect for serving salads.",
+        "imageUrl": "path/to/image14.jpg",
+        "stock": 30
+      },
+     
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 61,
+        "name": "Crystal Chandelier",
+        "price": 399.99,
+        "description": "An elegant chandelier to light up any room.",
+        "imageUrl": "path/to/image15.jpg",
+        "stock": 5
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Chandeliers",
+        "id": 62,
+        "name": "Modern Pendant Chandelier",
+        "price": 349.99,
+        "description": "A contemporary chandelier with a sleek design.",
+        "imageUrl": "path/to/image16.jpg",
+        "stock": 7
+      },
+      
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 71,
+        "name": "Modern Floor Lamp",
+        "price": 89.99,
+        "description": "A sleek, modern floor lamp.",
+        "imageUrl": "path/to/image17.jpg",
+        "stock": 15
+      },
+      {
+        "category": "Lighting",
+        "subcategory": "Floor Lamps",
+        "id": 72,
+        "name": "Traditional Floor Lamp",
+        "price": 79.99,
+        "description": "A classic floor lamp with a traditional design.",
+        "imageUrl": "path/to/image18.jpg",
+        "stock": 20
+      }
+      
+    ]
+  }
+  
+  
