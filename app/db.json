@@ -8,7 +8,7 @@
         "name": "Classic Sofa",
         "price": 499.99,
         "description": "A comfortable classic sofa perfect for any living room.",
-        "imageUrl": "path/to/image1.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/a0/7d/6c/a07d6cf3de092a742ba70e2c39a26e93.jpg",
         "stock": 15
       },
       {
@@ -18,7 +18,7 @@
         "name": "Modern Sectional Sofa",
         "price": 799.99,
         "description": "A modern sectional sofa with luxurious upholstery.",
-        "imageUrl": "path/to/image2.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/7d/28/a4/7d28a414cb0be291d9785a85ff843552.jpg",
         "stock": 10
       },
       
@@ -29,7 +29,7 @@
         "name": "Compact Loveseat",
         "price": 299.99,
         "description": "A compact loveseat ideal for smaller spaces.",
-        "imageUrl": "path/to/image3.jpg",
+        "imageUrl": "https://i.pinimg.com/474x/30/15/f4/3015f4fcf7856385874b2499a686f88c.jpg",
         "stock": 20
       },
       {
@@ -39,7 +39,7 @@
         "name": "Reclining Sofa",
         "price": 599.99,
         "description": "A reclining sofa with plush cushions for maximum comfort.",
-        "imageUrl": "path/to/image4.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/97/24/ab/9724ab5d34500dbfa30c31755f8f6606.jpg",
         "stock": 8
       },
       {
@@ -49,7 +49,7 @@
         "name": "Leather Sofa",
         "price": 899.99,
         "description": "A high-quality leather sofa that combines style and durability.",
-        "imageUrl": "path/to/image5.jpg",
+        "imageUrl": "https://i.pinimg.com/564x/2b/bb/ed/2bbbed24c51a4d780c03266e4884d22e.jpg",
         "stock": 12
       },
       {
@@ -59,7 +59,7 @@
         "name": "Vintage Sofa",
         "price": 650.00,
         "description": "A vintage-style sofa to add character to any room.",
-        "imageUrl": "path/to/image6.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/c7/75/ae/c775aecdef912cb9b2ccf6bbe7bc9fdd.jpg",
         "stock": 9
       },
       {
@@ -69,7 +69,7 @@
         "name": "Minimalist Sofa",
         "price": 450.00,
         "description": "A minimalist sofa with clean lines and a modern look.",
-        "imageUrl": "path/to/image7.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/23/4d/f8/234df8db3d2f2f9fbf0f2a5ad73eabe6.jpg",
         "stock": 11
       },
       {
@@ -79,7 +79,7 @@
         "name": "Luxury Sofa",
         "price": 1200.00,
         "description": "An upscale sofa with premium materials and finish.",
-        "imageUrl": "path/to/image8.jpg",
+        "imageUrl": "https://i.pinimg.com/736x/44/36/09/443609d73a54e4f3486704ef3b2fec10.jpg",
         "stock": 5
       },
       {
@@ -89,7 +89,7 @@
         "name": "Convertible Sofa Bed",
         "price": 499.99,
         "description": "A convertible sofa bed, perfect for small spaces.",
-        "imageUrl": "path/to/image9.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/fa/30/79/fa3079d2095bf8d35bb252fccd7d748c.jpg",
         "stock": 14
       },
       {
@@ -99,7 +99,7 @@
         "name": "Chesterfield Sofa",
         "price": 850.00,
         "description": "A timeless Chesterfield sofa with tufted upholstery.",
-        "imageUrl": "path/to/image10.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/b3/85/74/b385747b3b80b6fbc0e642743a837eab.jpg",
         "stock": 7
       },
      
@@ -110,7 +110,7 @@
         "name": "Wooden Dining Table",
         "price": 699.99,
         "description": "A solid wood dining table for family dinners.",
-        "imageUrl": "path/to/image5.jpg",
+        "imageUrl": "https://i.pinimg.com/564x/f0/15/0e/f0150e8d6068a01ee2e22caff4c91983.jpg",
         "stock": 18
       },
       {
@@ -120,7 +120,7 @@
         "name": "Glass Top Dining Table",
         "price": 899.99,
         "description": "An elegant glass top dining table with metal frame.",
-        "imageUrl": "path/to/image6.jpg",
+        "imageUrl": "https://i.pinimg.com/736x/2b/6a/b6/2b6ab6cbe35bce46e333cdda3128ae73.jpg",
         "stock": 5
       },
       {
@@ -130,7 +130,7 @@
         "name": "Extendable Dining Table",
         "price": 899.99,
         "description": "A versatile extendable dining table, ideal for hosting guests.",
-        "imageUrl": "path/to/image13.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/27/14/f5/2714f5605b47fbb63d03d10600bd39ee.jpg",
         "stock": 6
       },
       {
@@ -140,7 +140,7 @@
         "name": "Round Marble Dining Table",
         "price": 1299.99,
         "description": "An elegant round marble dining table with a modern look.",
-        "imageUrl": "path/to/image14.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/7a/40/13/7a40131b88e49582faf85f70a029beba.jpg",
         "stock": 4
       },
       {
@@ -150,7 +150,7 @@
         "name": "Farmhouse Dining Table",
         "price": 649.99,
         "description": "A rustic farmhouse-style dining table for a cozy atmosphere.",
-        "imageUrl": "path/to/image15.jpg",
+        "imageUrl": "https://i.pinimg.com/736x/bd/cf/a6/bdcfa6ba9639a20614e5446dd4fd67fe.jpg",
         "stock": 10
       },
       {
@@ -160,7 +160,7 @@
         "name": "Vintage Rectangular Table",
         "price": 750.00,
         "description": "A vintage rectangular table with sturdy wood construction.",
-        "imageUrl": "path/to/image16.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/3a/97/a1/3a97a1b7e55aff4f3f5eac839971266b.jpg",
         "stock": 5
       },
       {
@@ -170,7 +170,7 @@
         "name": "Compact Square Dining Table",
         "price": 299.99,
         "description": "A compact dining table perfect for small spaces.",
-        "imageUrl": "path/to/image17.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/af/39/59/af3959f0d4e27027ecdfd2aacdf97fb3.jpg",
         "stock": 12
       },
       {
@@ -180,7 +180,7 @@
         "name": "Wood and Metal Dining Table",
         "price": 549.99,
         "description": "A wood and metal dining table for an industrial look.",
-        "imageUrl": "path/to/image18.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/ea/34/cd/ea34cd86257da777410ef7c76f0133c0.jpg",
         "stock": 8
       },
       {
@@ -190,7 +190,7 @@
         "name": "Outdoor Dining Table",
         "price": 479.99,
         "description": "A weather-resistant dining table for outdoor dining.",
-        "imageUrl": "path/to/image19.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/a4/44/25/a44425287e3be128bba2530cc0a2b662.jpg",
         "stock": 10
       },
       {
@@ -200,7 +200,7 @@
         "name": "Glass and Chrome Dining Table",
         "price": 899.99,
         "description": "A chic glass and chrome dining table for a modern home.",
-        "imageUrl": "path/to/image20.jpg",
+        "imageUrl": "https://i.pinimg.com/564x/ea/30/8f/ea308f1c41a09d6255f354375a03c18e.jpg",
         "stock": 7
       },
   
@@ -212,7 +212,7 @@
         "name": "Framed Mirror",
         "price": 129.99,
         "description": "A beautifully framed wall mirror.",
-        "imageUrl": "path/to/image7.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/53/26/16/532616bce0a29dcc80522254c68077d8.jpg",
         "stock": 20
       },
       {
@@ -222,7 +222,7 @@
         "name": "Round Mirror",
         "price": 99.99,
         "description": "A stylish round mirror for any room.",
-        "imageUrl": "path/to/image8.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/0e/f0/05/0ef005d027535d7075bbf5dbdd0b4755.jpg",
         "stock": 14
       },
       {
@@ -232,7 +232,7 @@
         "name": "Antique Wall Mirror",
         "price": 149.99,
         "description": "An antique wall mirror with intricate detailing, perfect for vintage decor.",
-        "imageUrl": "path/to/image23.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/f5/12/ef/f512ef2375a7b994e3f31887c95ce035.jpg",
         "stock": 6
       },
       {
@@ -242,7 +242,7 @@
         "name": "Full-Length Mirror",
         "price": 199.99,
         "description": "A full-length mirror ideal for bedrooms and dressing areas.",
-        "imageUrl": "path/to/image24.jpg",
+        "imageUrl": "https://i.pinimg.com/474x/d2/20/78/d22078258050a005889ba034c6bed551.jpg",
         "stock": 10
       },
       {
@@ -252,7 +252,7 @@
         "name": "Hexagonal Mirror Set",
         "price": 89.99,
         "description": "A set of hexagonal mirrors for a unique wall display.",
-        "imageUrl": "path/to/image25.jpg",
+        "imageUrl": "https://i.pinimg.com/474x/b1/2c/c0/b12cc084ae12769698d5c61e781d4440.jpg",
         "stock": 15
       },
       {
@@ -262,7 +262,7 @@
         "name": "Sunburst Decorative Mirror",
         "price": 129.99,
         "description": "A sunburst mirror with a radiant frame design for accent decor.",
-        "imageUrl": "path/to/image26.jpg",
+        "imageUrl": "https://i.pinimg.com/474x/fa/af/05/faaf059cb44864c9c19deac7ed706108.jpg",
         "stock": 7
       },
       {
@@ -272,7 +272,7 @@
         "name": "Industrial Round Mirror",
         "price": 99.99,
         "description": "A round mirror with a metal frame for an industrial look.",
-        "imageUrl": "path/to/image27.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/97/79/c2/9779c2bd6e595f926718ec1063070a4b.jpg",
         "stock": 12
       },
       {
@@ -282,7 +282,7 @@
         "name": "Bathroom Vanity Mirror",
         "price": 74.99,
         "description": "A sleek mirror designed for bathroom vanities.",
-        "imageUrl": "path/to/image28.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/b2/6f/47/b26f47677d22ceef640c4a3b579195bd.jpg",
         "stock": 20
       },
       {
@@ -292,7 +292,7 @@
         "name": "Modern Frameless Mirror",
         "price": 109.99,
         "description": "A frameless mirror with a clean, modern aesthetic.",
-        "imageUrl": "path/to/image29.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/0c/a6/5e/0ca65e449047d80d151ff8976ceb3b75.jpg",
         "stock": 10
       },
       {
@@ -302,7 +302,7 @@
         "name": "Geometric Pattern Mirror",
         "price": 139.99,
         "description": "A mirror with a unique geometric pattern frame for contemporary decor.",
-        "imageUrl": "path/to/image30.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/86/a9/ce/86a9ce80dadec36f235a61e22a5c4c9b.jpg",
         "stock": 8
       },
   
@@ -314,7 +314,7 @@
         "name": "Abstract Sculpture",
         "price": 59.99,
         "description": "A unique abstract sculpture to decorate your home.",
-        "imageUrl": "path/to/image9.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/01/6c/a2/016ca2d2c9200d314ee4e76fbd9bc3c7.jpg",
         "stock": 12
       },
       {
@@ -324,7 +324,7 @@
         "name": "Modern Statue",
         "price": 75.99,
         "description": "An elegant modern statue made of high-quality materials.",
-        "imageUrl": "path/to/image10.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/64/e6/fb/64e6fb63ecd735324c367ce6273385e6.jpg",
         "stock": 8
       },
       {
@@ -334,7 +334,7 @@
         "name": "Abstract Metal Sculpture",
         "price": 79.99,
         "description": "A modern abstract metal sculpture, perfect for contemporary decor.",
-        "imageUrl": "path/to/image33.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/90/4c/d9/904cd9ebdcd742280638a8be8dd5fcf4.jpg",
         "stock": 10
       },
       {
@@ -426,7 +426,7 @@
         "name": "Cast Iron Skillet",
         "price": 39.99,
         "description": "A durable cast iron skillet for versatile cooking.",
-        "imageUrl": "path/to/image12.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/47/3a/6e/473a6e5c40a6588268eb4f7efef3e1d0.jpg",
         "stock": 25
       },
       {
@@ -436,7 +436,7 @@
         "name": "Stainless Steel Saucepan",
         "price": 49.99,
         "description": "A durable stainless steel saucepan for everyday cooking.",
-        "imageUrl": "path/to/image43.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/6f/1a/5c/6f1a5c7546e1d96bd177e2f1f58f53e6.jpg",
         "stock": 15
       },
       {
@@ -466,7 +466,7 @@
         "name": "Dutch Oven",
         "price": 99.99,
         "description": "A large cast iron Dutch oven for slow-cooked dishes.",
-        "imageUrl": "path/to/image46.jpg",
+        "imageUrl": "https://i.pinimg.com/736x/c4/73/f9/c473f98277134841fd12c2d6b49c0330.jpg",
         "stock": 8
       },
       {
@@ -476,7 +476,7 @@
         "name": "Copper Saucepan",
         "price": 89.99,
         "description": "A copper saucepan for professional-grade cooking.",
-        "imageUrl": "path/to/image47.jpg",
+        "imageUrl": "https://i.pinimg.com/564x/4e/44/b7/4e44b7770e4f122b93b3109c1ff097eb.jpg",
         "stock": 12
       },
       {
@@ -486,7 +486,7 @@
         "name": "Stainless Steel Stock Pot",
         "price": 69.99,
         "description": "A large stock pot perfect for soups and stews.",
-        "imageUrl": "path/to/image48.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/68/fc/09/68fc0991a7f3b12afc8ac4416c11819d.jpg",
         "stock": 9
       },
       {
@@ -496,7 +496,7 @@
         "name": "Enamel Cast Iron Braiser",
         "price": 89.99,
         "description": "An enamel-coated braiser ideal for stovetop and oven cooking.",
-        "imageUrl": "path/to/image49.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/b6/56/80/b65680236cd2094cc1a7b7a657045b59.jpg",
         "stock": 7
       },
       {
@@ -506,7 +506,7 @@
         "name": "Stainless Steel Roasting Pan",
         "price": 74.99,
         "description": "A stainless steel roasting pan with a rack for even roasting.",
-        "imageUrl": "path/to/image50.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/05/ea/73/05ea733bac780ad7d48d3b5c82d3f1cf.jpg",
         "stock": 11
       },
   
@@ -518,7 +518,7 @@
         "name": "Serving Platter",
         "price": 24.99,
         "description": "A stylish platter for serving meals.",
-        "imageUrl": "path/to/image13.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/6e/f6/b7/6ef6b76258a66092951cb46714ee6816.jpg",
         "stock": 18
       },
       {
@@ -528,7 +528,7 @@
         "name": "Salad Bowl",
         "price": 19.99,
         "description": "A large bowl perfect for serving salads.",
-        "imageUrl": "path/to/image14.jpg",
+        "imageUrl": "https://i.pinimg.com/736x/78/67/a0/7867a047e2b0d5b4089314886f506a35.jpg",
         "stock": 30
       },
       {
@@ -538,7 +538,7 @@
         "name": "Ceramic Serving Platter",
         "price": 24.99,
         "description": "A large ceramic platter perfect for serving main dishes.",
-        "imageUrl": "path/to/image53.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/2f/4b/f6/2f4bf6ff3b27e70d8f4f0a03c7067c24.jpg",
         "stock": 10
       },
       {
@@ -558,7 +558,7 @@
         "name": "Stainless Steel Serving Bowl",
         "price": 19.99,
         "description": "A durable stainless steel bowl for serving salads and sides.",
-        "imageUrl": "path/to/image55.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/e9/06/34/e906340b033ac591e9c3252fbd1977db.jpg",
         "stock": 12
       },
       {
@@ -568,7 +568,7 @@
         "name": "Glass Pitcher",
         "price": 29.99,
         "description": "A clear glass pitcher perfect for serving beverages.",
-        "imageUrl": "path/to/image56.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/8a/e2/69/8ae269d22e4d878bd05b19e39df7899e.jpg",
         "stock": 15
       },
       {
@@ -578,7 +578,7 @@
         "name": "Porcelain Soup Tureen",
         "price": 49.99,
         "description": "A porcelain tureen with a lid, ideal for serving soups and stews.",
-        "imageUrl": "path/to/image57.jpg",
+        "imageUrl": "https://i.pinimg.com/736x/a4/ca/90/a4ca9089f6076acd4aeaa2301fd5213e.jpg",
         "stock": 5
       },
       {
@@ -588,7 +588,7 @@
         "name": "Wooden Salad Bowl Set",
         "price": 39.99,
         "description": "A set of wooden bowls for serving salads.",
-        "imageUrl": "path/to/image58.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/85/21/6b/85216b1461d3406ec6064b3b29a5e4f0.jpg",
         "stock": 10
       },
       {
@@ -598,7 +598,7 @@
         "name": "Silver Serving Tray",
         "price": 44.99,
         "description": "An elegant silver tray perfect for formal gatherings.",
-        "imageUrl": "path/to/image59.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/1a/84/d0/1a84d0bb09e30c62ed1e9f01fbf49060.jpg",
         "stock": 6
       },
       {
@@ -608,7 +608,7 @@
         "name": "Ceramic Dip Bowl Set",
         "price": 14.99,
         "description": "A set of ceramic dip bowls for serving sauces and dips.",
-        "imageUrl": "path/to/image60.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/9c/db/96/9cdb96bb1d6eb10472ffbfbe85f4f901.jpg",
         "stock": 18
       },
   
@@ -620,7 +620,7 @@
         "name": "Crystal Chandelier",
         "price": 399.99,
         "description": "An elegant chandelier to light up any room.",
-        "imageUrl": "path/to/image15.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/70/2f/cd/702fcdca3e7ae6c058e57d0aa23821c1.jpg",
         "stock": 5
       },
       {
@@ -630,7 +630,7 @@
         "name": "Modern Pendant Chandelier",
         "price": 349.99,
         "description": "A contemporary chandelier with a sleek design.",
-        "imageUrl": "path/to/image16.jpg",
+        "imageUrl": "https://i.pinimg.com/236x/9c/04/17/9c04177d1465b1889ff67209a4cee402.jpg",
         "stock": 7
       },
       {
