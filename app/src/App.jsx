@@ -1,13 +1,14 @@
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
-import Login from './User/Pages/Login';
-import Signup from './User/Pages/Signup';
+import HomePage from './User/Pages/Home';
+
 
 function App() {
   return (
     <>
     
       <ToastContainer />
+      <HomePage/>
        
     </>
   );
